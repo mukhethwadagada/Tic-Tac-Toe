@@ -1,7 +1,4 @@
 # Tic-Tac-Toe
-Certainly! A README.md file is essential for any project, especially for one you might share or revisit later. It explains what your project is, how to use it, and what features it has.
-
-Here's a README.md for your Interactive Tic-Tac-Toe game, incorporating all the features you've built:
 
 Interactive Tic-Tac-Toe
 A classic Tic-Tac-Toe game built entirely with HTML, CSS, and JavaScript, featuring two game modes, score tracking, and customizable player names. Play against a friend or challenge a simple AI!
